@@ -1,6 +1,5 @@
 bin
 
 # config files
-genesis.json
 jwt.txt
-rollup.json
+
